@@ -1,63 +1,23 @@
-D:\c#\FractalWebApp\FractalWebApp\bin\roslyn\csc.exe
-D:\c#\FractalWebApp\FractalWebApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
-D:\c#\FractalWebApp\FractalWebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
-D:\c#\FractalWebApp\FractalWebApp\bin\roslyn\Microsoft.CodeAnalysis.dll
-D:\c#\FractalWebApp\FractalWebApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
-D:\c#\FractalWebApp\FractalWebApp\bin\roslyn\Microsoft.CSharp.Core.targets
-D:\c#\FractalWebApp\FractalWebApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
-D:\c#\FractalWebApp\FractalWebApp\bin\roslyn\System.Collections.Immutable.dll
-D:\c#\FractalWebApp\FractalWebApp\bin\roslyn\System.Reflection.Metadata.dll
-D:\c#\FractalWebApp\FractalWebApp\bin\roslyn\vbc.exe
-D:\c#\FractalWebApp\FractalWebApp\bin\roslyn\VBCSCompiler.exe
-D:\c#\FractalWebApp\FractalWebApp\bin\roslyn\VBCSCompiler.exe.config
-D:\c#\FractalWebApp\FractalWebApp\bin\FractalWebApp.dll.config
-D:\c#\FractalWebApp\FractalWebApp\bin\FractalWebApp.dll
-D:\c#\FractalWebApp\FractalWebApp\bin\FractalWebApp.pdb
-D:\c#\FractalWebApp\FractalWebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
-D:\c#\FractalWebApp\FractalWebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-D:\c#\FractalWebApp\FractalWebApp\obj\Debug\FractalWebApp.csprojResolveAssemblyReference.cache
-D:\c#\FractalWebApp\FractalWebApp\obj\Debug\FractalWebApp.dll
-D:\c#\FractalWebApp\FractalWebApp\obj\Debug\FractalWebApp.pdb
-F:\c#\JS_FractalWebApp\FractalWebApp\FractalWebApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
-F:\c#\JS_FractalWebApp\FractalWebApp\FractalWebApp\bin\roslyn\Microsoft.CSharp.Core.targets
-F:\c#\JS_FractalWebApp\FractalWebApp\FractalWebApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
-F:\c#\JS_FractalWebApp\FractalWebApp\FractalWebApp\bin\roslyn\System.Collections.Immutable.dll
-F:\c#\JS_FractalWebApp\FractalWebApp\FractalWebApp\bin\roslyn\System.Reflection.Metadata.dll
-F:\c#\JS_FractalWebApp\FractalWebApp\FractalWebApp\bin\roslyn\vbc.exe
-F:\c#\JS_FractalWebApp\FractalWebApp\FractalWebApp\bin\roslyn\VBCSCompiler.exe
-F:\c#\JS_FractalWebApp\FractalWebApp\FractalWebApp\bin\roslyn\VBCSCompiler.exe.config
-F:\c#\JS_FractalWebApp\FractalWebApp\FractalWebApp\bin\roslyn\csc.exe
-F:\c#\JS_FractalWebApp\FractalWebApp\FractalWebApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
-F:\c#\JS_FractalWebApp\FractalWebApp\FractalWebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
-F:\c#\JS_FractalWebApp\FractalWebApp\FractalWebApp\bin\roslyn\Microsoft.CodeAnalysis.dll
-F:\c#\JS_FractalWebApp\FractalWebApp\FractalWebApp\bin\FractalWebApp.dll.config
-F:\c#\JS_FractalWebApp\FractalWebApp\FractalWebApp\bin\FractalWebApp.dll
-F:\c#\JS_FractalWebApp\FractalWebApp\FractalWebApp\bin\FractalWebApp.pdb
-F:\c#\JS_FractalWebApp\FractalWebApp\FractalWebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
-F:\c#\JS_FractalWebApp\FractalWebApp\FractalWebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-F:\c#\JS_FractalWebApp\FractalWebApp\FractalWebApp\obj\Debug\FractalWebApp.csprojResolveAssemblyReference.cache
-F:\c#\JS_FractalWebApp\FractalWebApp\FractalWebApp\obj\Debug\FractalWebApp.dll
-F:\c#\JS_FractalWebApp\FractalWebApp\FractalWebApp\obj\Debug\FractalWebApp.pdb
-F:\c#\Neuer Ordner\JS_FractalWebApp\FractalWebApp\FractalWebApp\bin\roslyn\csc.exe
-F:\c#\Neuer Ordner\JS_FractalWebApp\FractalWebApp\FractalWebApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
-F:\c#\Neuer Ordner\JS_FractalWebApp\FractalWebApp\FractalWebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
-F:\c#\Neuer Ordner\JS_FractalWebApp\FractalWebApp\FractalWebApp\bin\roslyn\Microsoft.CodeAnalysis.dll
-F:\c#\Neuer Ordner\JS_FractalWebApp\FractalWebApp\FractalWebApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
-F:\c#\Neuer Ordner\JS_FractalWebApp\FractalWebApp\FractalWebApp\bin\roslyn\Microsoft.CSharp.Core.targets
-F:\c#\Neuer Ordner\JS_FractalWebApp\FractalWebApp\FractalWebApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
-F:\c#\Neuer Ordner\JS_FractalWebApp\FractalWebApp\FractalWebApp\bin\roslyn\System.Collections.Immutable.dll
-F:\c#\Neuer Ordner\JS_FractalWebApp\FractalWebApp\FractalWebApp\bin\roslyn\System.Reflection.Metadata.dll
-F:\c#\Neuer Ordner\JS_FractalWebApp\FractalWebApp\FractalWebApp\bin\roslyn\vbc.exe
-F:\c#\Neuer Ordner\JS_FractalWebApp\FractalWebApp\FractalWebApp\bin\roslyn\VBCSCompiler.exe
-F:\c#\Neuer Ordner\JS_FractalWebApp\FractalWebApp\FractalWebApp\bin\roslyn\VBCSCompiler.exe.config
-F:\c#\Neuer Ordner\JS_FractalWebApp\FractalWebApp\FractalWebApp\bin\FractalWebApp.dll.config
-F:\c#\Neuer Ordner\JS_FractalWebApp\FractalWebApp\FractalWebApp\bin\FractalWebApp.dll
-F:\c#\Neuer Ordner\JS_FractalWebApp\FractalWebApp\FractalWebApp\bin\FractalWebApp.pdb
-F:\c#\Neuer Ordner\JS_FractalWebApp\FractalWebApp\FractalWebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
-F:\c#\Neuer Ordner\JS_FractalWebApp\FractalWebApp\FractalWebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-F:\c#\Neuer Ordner\JS_FractalWebApp\FractalWebApp\FractalWebApp\obj\Debug\FractalWebApp.csprojResolveAssemblyReference.cache
-F:\c#\Neuer Ordner\JS_FractalWebApp\FractalWebApp\FractalWebApp\obj\Debug\FractalWebApp.dll
-F:\c#\Neuer Ordner\JS_FractalWebApp\FractalWebApp\FractalWebApp\obj\Debug\FractalWebApp.pdb
+C:\Users\Hermueller\Desktop\FractalWebApp\FractalWebApp\bin\roslyn\csc.exe
+C:\Users\Hermueller\Desktop\FractalWebApp\FractalWebApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Hermueller\Desktop\FractalWebApp\FractalWebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Hermueller\Desktop\FractalWebApp\FractalWebApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Hermueller\Desktop\FractalWebApp\FractalWebApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Hermueller\Desktop\FractalWebApp\FractalWebApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Hermueller\Desktop\FractalWebApp\FractalWebApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Hermueller\Desktop\FractalWebApp\FractalWebApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Hermueller\Desktop\FractalWebApp\FractalWebApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Hermueller\Desktop\FractalWebApp\FractalWebApp\bin\roslyn\vbc.exe
+C:\Users\Hermueller\Desktop\FractalWebApp\FractalWebApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\Hermueller\Desktop\FractalWebApp\FractalWebApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Hermueller\Desktop\FractalWebApp\FractalWebApp\bin\FractalWebApp.dll.config
+C:\Users\Hermueller\Desktop\FractalWebApp\FractalWebApp\bin\FractalWebApp.dll
+C:\Users\Hermueller\Desktop\FractalWebApp\FractalWebApp\bin\FractalWebApp.pdb
+C:\Users\Hermueller\Desktop\FractalWebApp\FractalWebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Hermueller\Desktop\FractalWebApp\FractalWebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Hermueller\Desktop\FractalWebApp\FractalWebApp\obj\Debug\FractalWebApp.dll
+C:\Users\Hermueller\Desktop\FractalWebApp\FractalWebApp\obj\Debug\FractalWebApp.pdb
+C:\Users\Hermueller\Desktop\FractalWebApp\FractalWebApp\obj\Debug\FractalWebApp.csprojResolveAssemblyReference.cache
 F:\c#\FractalWebApp\FractalWebApp\bin\roslyn\csc.exe
 F:\c#\FractalWebApp\FractalWebApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
 F:\c#\FractalWebApp\FractalWebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll

@@ -11,15 +11,21 @@ window.setInterval(function () {
     var clock = new Clock(new Date());
     document.getElementById("date").innerHTML = "<b>" + clock.getDateString() + "</b>";
     document.getElementById("time").innerHTML = "<b>" + clock.getTimeString() + "</b>";
-},1);
+}, 1);
+
+function myFunction() {
+    var txt = document.getElementById("ite_txt");
+    alert(txt);
+}
+
 
 window.onload = function () {
   
 
     var canvas = document.getElementById("fractal");
     var painting = new Fractal(canvas);
-    picture = painting.setBounds(-2.5, 4, -1.5, 3);
-
+    //picture = painting.setBounds(-2.5, 4, -1.5, 3);
+    
     canvas.addEventListener("mousedown", function (event) {
         mouseStart = getMousePos(canvas, event);
         isDragging = true;
