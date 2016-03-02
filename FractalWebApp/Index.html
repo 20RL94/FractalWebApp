@@ -3,7 +3,8 @@
 <head>
     <title></title>
 	<meta charset="utf-8" />
-    <script src="http://code.jquery.com/jquery-1.10.1.min.js"></script>
+    <script src="Scripts/jquery-2.2.1.min.js"></script>
+    <!--<script src="http://code.jquery.com/jquery-1.10.1.min.js"></script>-->
     <script src="clock.js"></script>
     <script src="fractal.js"></script>
     <script src="palette.js"></script>
@@ -12,13 +13,29 @@
     <h1>Apfelmännchen</h1>
     <div id="date"></div>
     <div id="time"></div>
-    <form>
+    <div>
+        Width <select id="width"></select>
+        Height<select id="height"></select>
+    </div>
+    <form style="float:left">
         <h5>Maximum Iteration: </h5>
         <input type="text" value="100" id="iter_count"/>
         <h5>Maximum abs: </h5>
         <input type="text" value="50" id="abs" />
         <input type="button" value="REFRESH" id="refresh" />
     </form>
-    <canvas width="800" height="600" id="fractal"></canvas>
+
+    <table style="float:right">
+        <thead >Iteration</thead>
+        <tr>
+            <td>
+           </td>
+        </tr>
+        <tbody>
+
+        </tbody>
+    </table>
+
+    <canvas style="float:left" width="800" height="600" id="fractal"></canvas>
 </body>
 </html>
